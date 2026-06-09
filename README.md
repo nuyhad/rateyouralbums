@@ -1,8 +1,7 @@
 # Rate Your Albums
 
-A personal album rating web app — search, rate, and track every album you've ever heard.
-
-Live at: [wsgun.github.io/rateyouralbums](https://wsgun.github.io/rateyouralbums)
+Search, rate, and track every album you've ever heard.
+[wsgun.github.io/rateyouralbums](https://wsgun.github.io/rateyouralbums)
 
 ---
 
